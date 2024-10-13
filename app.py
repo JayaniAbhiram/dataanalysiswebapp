@@ -7,12 +7,12 @@ import pandas as pd
 
 st.set_page_config(
      page_title="Data Analysis Web App",
-     page_icon="🧊",
+     page_icon="⭐",
      layout="wide",
      initial_sidebar_state="expanded",
      menu_items={
-         'Get Help': 'https://github.com/everydaycodings/Data-Analysis-Web-App',
-         'Report a bug': "https://github.com/everydaycodings/Data-Analysis-Web-App/issues/new",
+         'Get Help': 'https://github.com/JayaniAbhiram/dataanalysiswebapp',
+         'Report a bug': "https://github.com/JayaniAbhiram/dataanalysiswebapp/issues/new",
          'About': "# This is a header. This is an *extremely* cool app!"
      }
 )
